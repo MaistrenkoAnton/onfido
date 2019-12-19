@@ -40,6 +40,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'drf_yasg',
+
+    'onfido'
 ]
 
 MIDDLEWARE = [
